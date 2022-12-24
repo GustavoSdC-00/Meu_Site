@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+*{
+    padding:0px;
+    margin:0px;
+}
+
+
+h1{
+    font-family: 'Righteous', 'Sarala';
+
+}
+
+h3{
+
+}
+
+h6{
+
+}
+
+/*-------------------------------------Conteiners---------------------------------------------*/
+
+/*-------Main--------*/
+
+#grid{
+
+}
+
+.card{
+    background-color:#849BBD;
+
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+
+}
